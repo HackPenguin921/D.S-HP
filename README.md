@@ -77,7 +77,7 @@
 </head>
 <body>
     <div class="profile-card">
-        <img src="selfimage.png" alt="アイコン">
+        <img src="icon.jpg" alt="アイコン">
 
         <h3>私の情報</h3>
         <ul>
