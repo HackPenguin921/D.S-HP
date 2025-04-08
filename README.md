@@ -100,6 +100,7 @@
         <div class="sns">
             <a class="button-link" href="https://www.instagram.com/micoshiba028?igsh=aDBud2psbWkwcTFv&utm_source=qr" target="_blank">Instagram</a>
             <a class="button-link" href="https://x.com/dogpenguin04?s=21&t=LKT6dv5vsVTTkc9wb2-itQ" target="_blank">X (Twitter)</a>
+            <a class="button-link" href="https://scratch.mit.edu/search/projects?q=cutecat116" target="_blank"> Scratch</a>
         </div>
 
         <h3>各種問い合わせ</h3>
